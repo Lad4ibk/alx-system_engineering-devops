@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd mkdir /tmp/ cd tmp pwd mkdir my_first_directory
+pwd mkdir /tmp/my_first_directory
