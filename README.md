@@ -1,1 +1,1 @@
-_This is the Readme file for shell permissions_
+_This is the Readme file for shell projects intro_
